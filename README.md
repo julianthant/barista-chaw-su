@@ -2,7 +2,7 @@
 
 A coffee and drink recipe site built with Astro and React in September 2023. It groups recipes into hot coffee, iced coffee and other drinks, and each recipe has its own page.
 
-**Live site:** https://baristachawsu.netlify.app
+**Live site:** https://barista.julianzaw.me
 
 ![Barista Chaw Su home page](.github/assets/screenshot.png)
 
@@ -20,7 +20,7 @@ Complete.
 
 - Astro with React components
 - Sass, MUI and Framer Motion
-- Netlify for hosting
+- Vercel for hosting
 
 ## Run it locally
 
